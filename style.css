@@ -2,3 +2,15 @@ body{
     background-color:blue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.resource-card{
+    border: 2;
+    border-radius: 80%;
+    border-color: black;
+    border-style: dashed;
+    ;
+}
+
+img{
+    width: 200px;
+    
+}
